@@ -6,7 +6,7 @@ A project discussing the best suitable method for prediction of house price in M
 Step1: Data Collection
 
 Source: kaggle.com
-Link: https://www.kaggle.com/anthonypino/melbourne-housingmarket?select=Melbourne_housing_FULL.csv
+Link: https://www.kaggle.com/anthonypino/melbourne-housing-market?select=Melbourne_housing_FULL.csv
 
 Sample Raw Data:
 
